@@ -2,8 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://benschi.at/</loc><lastmod>2022-01-26T17:11:21&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://benschi.at/my-first-post/</loc><lastmod>2022-01-26T17:11:21&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://benschi.at/posts/</loc><lastmod>2022-01-26T17:11:21&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://benschi.at/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://benschi.at/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>localhost/about/</loc><lastmod>2022-01-26T17:11:21&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>localhost/</loc><lastmod>2022-01-26T17:11:21&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>localhost/my-first-post/</loc><lastmod>2022-01-26T17:11:21&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>localhost/posts/</loc><lastmod>2022-01-26T17:11:21&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>localhost/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>localhost/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

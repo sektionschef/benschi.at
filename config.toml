@@ -5,6 +5,26 @@ title = 'Benschi'
 theme = "LoveIt-master"
 
 
+[menu]
+# [[menu.main]]
+#   name = 'getting started'
+#   post = "<span class='alert'>New!</span>"
+#   pre = "<i class='fa fa-road'></i>"
+#   url = '/getting-started/'
+#   weight = -100
+[[menu.main]]
+  identifier = 'impressum'
+  name = 'Impressum'
+  # pre = "<i class='fa fa-heart'></i>"
+  url = '/impressum/'
+[[menu.main]]
+  identifier = 'about'
+  name = 'Über mich'
+  # pre = "<i class='fa fa-heart'></i>"
+  url = '/about/'
+  # weight = -110
+
+
 [params]
   #  LoveIt theme version
   version = "0.2.X"
