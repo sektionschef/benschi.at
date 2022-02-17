@@ -1,4 +1,6 @@
-# About
+# Über mich
 
 
-# About
+# Lalala
+
+{{< figure src="Benjamin_Schweighofer.JPG" alt="Benjamin Schweighofer">}}

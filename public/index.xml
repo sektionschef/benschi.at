@@ -1,17 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Benschi</title>
-        <link>localhost/</link>
+        <link>http://benschi.at/</link>
         <description>Persönliche Seite von Benjamin Schweighofer</description>
         <generator>Hugo -- gohugo.io</generator><language>de-de</language><managingEditor>benschi@benschi.at (Benjamin Schweighofer)</managingEditor>
             <webMaster>benschi@benschi.at (Benjamin Schweighofer)</webMaster><lastBuildDate>Wed, 26 Jan 2022 17:11:21 &#43;0100</lastBuildDate>
-            <atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="http://benschi.at/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>My First Post</title>
-    <link>localhost/my-first-post/</link>
+    <link>http://benschi.at/my-first-post/</link>
     <pubDate>Wed, 26 Jan 2022 17:11:21 &#43;0100</pubDate>
     <author>Author</author>
-    <guid>localhost/my-first-post/</guid>
+    <guid>http://benschi.at/my-first-post/</guid>
     <description><![CDATA[really! ]]></description>
 </item></channel>
 </rss>

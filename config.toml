@@ -13,10 +13,15 @@ theme = "LoveIt-master"
 #   url = '/getting-started/'
 #   weight = -100
 [[menu.main]]
-  identifier = 'kontakt'
+  identifier = 'home'
+  name = 'Home'
+  # pre = "<i class='fa fa-heart'></i>"
+  url = '/'
+[[menu.main]]
+  identifier = 'contact'
   name = 'Kontakt'
   # pre = "<i class='fa fa-heart'></i>"
-  url = '/kontakt/'
+  url = '/contact/'
 [[menu.main]]
   identifier = 'about'
   name = 'Über mich'

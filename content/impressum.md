@@ -5,7 +5,6 @@ draft: false
 ---
 
 
-# Impressum
 
 Rechtsform Benjamin Schwaighofer n.p.EU  
 Kammer/Verband [WKO](https://firmen.wko.at/benjamin-schwaighofer/nieder%c3%b6sterreich/?firmaid=a42468c2-1f92-4810-92df-c4edb3c39a9f&suchbegriff=benjamin%20schwaighofer)  
