@@ -3,4 +3,4 @@
 
 # Lalala
 
-{{< figure src="Benjamin_Schweighofer.JPG" alt="Benjamin Schweighofer">}}
+{{< figure src="Benjamin_Schwaighofer.JPG" alt="Benjamin Schwaighofer">}}
