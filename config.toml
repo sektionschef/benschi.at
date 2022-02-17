@@ -18,10 +18,10 @@ theme = "LoveIt-master"
   # pre = "<i class='fa fa-heart'></i>"
   url = '/'
 [[menu.main]]
-  identifier = 'contact'
+  identifier = 'Kontakt'
   name = 'Kontakt'
   # pre = "<i class='fa fa-heart'></i>"
-  url = '/contact/'
+  url = '/contact'
 [[menu.main]]
   identifier = 'about'
   name = 'Über mich'
