@@ -39,7 +39,7 @@ theme = "LoveIt-master"
   #  LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "Persönliche Seite von Benjamin Schweighofer"
+  description = "Persönliche Seite von Benjamin Schwaighofer"
   # site keywords
   keywords = ["Theme", "Hugo"]
   # site default theme ("light", "dark", "auto")
@@ -156,7 +156,7 @@ theme = "LoveIt-master"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/profile_Benjamin Schweighofer.jpg"
+      avatarURL = "/images/profile_Benjamin_Schwaighofer.jpg"
       #  title shown in home page (HTML format is supported)
       title = "Benschi"
       # subtitle shown in home page
@@ -166,7 +166,7 @@ theme = "LoveIt-master"
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = "Benjamin Schweighofer"
+      disclaimer = "Benjamin Schwaighofer"
     # Home page posts
     [params.home.posts]
       enable = true
@@ -520,7 +520,7 @@ theme = "LoveIt-master"
 
 # Author config
 [author]
-  name = "Benjamin Schweighofer"
+  name = "Benjamin Schwaighofer"
   email = "benschi@benschi.at"
   link = ""
 
