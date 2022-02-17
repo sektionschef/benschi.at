@@ -1,1 +1,15 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>All Posts - Benschi</title><link>http://benschi.at/posts/</link><description>All Posts | Benschi</description><generator>Hugo -- gohugo.io</generator><language>de-de</language><managingEditor>benschi@benschi.at (Benjamin Schweighofer)</managingEditor><webMaster>benschi@benschi.at (Benjamin Schweighofer)</webMaster><lastBuildDate>Wed, 26 Jan 2022 17:11:21 +0100</lastBuildDate><atom:link href="http://benschi.at/posts/" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>http://benschi.at/my-first-post/</link><pubDate>Wed, 26 Jan 2022 17:11:21 +0100</pubDate><author>Author</author><guid>http://benschi.at/my-first-post/</guid><description>really!</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Benschi</title>
+        <link>http://benschi.at/posts/</link>
+        <description>All Posts | Benschi</description>
+        <generator>Hugo -- gohugo.io</generator><language>de-de</language><managingEditor>benschi@benschi.at (Benjamin Schweighofer)</managingEditor>
+            <webMaster>benschi@benschi.at (Benjamin Schweighofer)</webMaster><lastBuildDate>Wed, 26 Jan 2022 17:11:21 &#43;0100</lastBuildDate><atom:link href="http://benschi.at/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My First Post</title>
+    <link>http://benschi.at/my-first-post/</link>
+    <pubDate>Wed, 26 Jan 2022 17:11:21 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>http://benschi.at/my-first-post/</guid>
+    <description><![CDATA[really! ]]></description>
+</item></channel>
+</rss>
